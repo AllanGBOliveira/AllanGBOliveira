@@ -2,7 +2,7 @@
 
 ---
 
-Sou um desenvolvedor web **Front-End Pleno** com uma paixão por criar soluções que unem tecnologia e experiência do usuário. Desde 2017, mergulho de cabeça no mundo do desenvolvimento, e a minha trajetória me permitiu atuar em projetos diversos, de sites institucionais a sistemas de e-commerce complexos. Atualmente, atuo em **Guarapuava, PR**, e busco uma posição onde possa continuar aprimorando minhas habilidades, especialmente em **performance e SEO com Server-Side Rendering (SSR)**.
+Sou um desenvolvedor web **Front-End Pleno** com uma paixão por criar soluções que unem tecnologia e experiência do usuário. Desde 2019, mergulho de cabeça no mundo do desenvolvimento, e a minha trajetória me permitiu atuar em projetos diversos, de sites institucionais a sistemas de e-commerce complexos. Atualmente, atuo em **Guarapuava, PR**, e busco uma posição onde possa continuar aprimorando minhas habilidades, especialmente em **performance e SEO com Server-Side Rendering (SSR)**.
 
 No momento, estou focado em evoluir para me tornar um **Desenvolvedor Full-Stack Pleno**, aprofundando meus conhecimentos em Back-End para criar aplicações ainda mais completas.
 
