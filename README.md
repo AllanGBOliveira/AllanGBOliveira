@@ -15,13 +15,6 @@ No momento, estou focado em evoluir para me tornar um **Desenvolvedor Full-Stack
 - **Plataformas:** VTEX (com vasta experiência em e-commerce)
 - **Conceitos:** SEO, Server-Side Rendering (SSR), E-commerce, Design Responsivo, Clean Code, GIT
 
----
-
-### 🚀 Projetos em Destaque
-
-*(Aqui você pode adicionar um ou dois projetos do seu GitHub que você mais se orgulha. Adicione uma breve descrição e o link para o repositório.)*
-
----
 
 ### 🔗 Me Encontre
 
