@@ -1,16 +1,29 @@
-## Hi there 👋
+### Olá, eu sou Allan Oliveira! 👋
 
-<!--
-**AllanGBOliveira/AllanGBOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Sou um desenvolvedor web **Front-End Pleno** com uma paixão por criar soluções que unem tecnologia e experiência do usuário. Desde 2017, mergulho de cabeça no mundo do desenvolvimento, e a minha trajetória me permitiu atuar em projetos diversos, de sites institucionais a sistemas de e-commerce complexos. Atualmente, atuo em **Guarapuava, PR**, e busco uma posição onde possa continuar aprimorando minhas habilidades, especialmente em **performance e SEO com Server-Side Rendering (SSR)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No momento, estou focado em evoluir para me tornar um **Desenvolvedor Full-Stack Pleno**, aprofundando meus conhecimentos em Back-End para criar aplicações ainda mais completas.
+
+---
+
+### 💻 Minhas Habilidades
+
+- **Linguagens:** JavaScript, HTML, CSS/SCSS, PHP
+- **Frameworks/Bibliotecas:** React.js, Vue.js, Nuxt.js, jQuery, Laravel
+- **Plataformas:** VTEX (com vasta experiência em e-commerce)
+- **Conceitos:** SEO, Server-Side Rendering (SSR), E-commerce, Design Responsivo, Clean Code, GIT
+
+---
+
+### 🚀 Projetos em Destaque
+
+*(Aqui você pode adicionar um ou dois projetos do seu GitHub que você mais se orgulha. Adicione uma breve descrição e o link para o repositório.)*
+
+---
+
+### 🔗 Me Encontre
+
+- **LinkedIn:** [linkedin.com/in/alle-oliveira](https://www.google.com/search?q=linkedin.com/in/alle-oliveira)
+- **Email:** allebeira@gmail.com
