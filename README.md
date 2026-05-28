@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alle-oliveira)
 [![Email](https://img.shields.io/badge/allebeira@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:allebeira@gmail.com)
-[![Portfolio](https://img.shields.io/badge/ao.dev-E8C44A?style=flat-square&logoColor=black)](https://ao.dev)
+[![Portfolio](https://img.shields.io/badge/ao.dev-E8C44A?style=flat-square&logoColor=black)](https://ao.dev.br)
 
 </div>
 
